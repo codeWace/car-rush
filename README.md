@@ -36,6 +36,9 @@ Control your car, collect coins, avoid other vehicles, and try to get the highes
 
 ### Assets
 
+- **Font**
+  - Minecraft.ttf (used for in-game text), Author/Source: Unknown / Minecraft Font, License: Not provided with the file.
+ 
 - **Coin Graphics**  
   - Author: dinhaz  
   - License: Free to use in any project  
